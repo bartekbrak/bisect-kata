@@ -22,3 +22,4 @@ print base64.decodestring(animal), 'prrr, prr... all is good'
 # Ben Robinson was here
 # Melissa Pitt was here
 # Albert Urbaniak was here
+# Maria Richard was here
