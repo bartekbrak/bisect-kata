@@ -143,3 +143,4 @@ print base64.decodestring(animal), 'Is our situation not dismal?'
 # Elke Elliott was here
 # Donald Hull was here
 # Sandra Otis was here
+# Kristie Smith was here
