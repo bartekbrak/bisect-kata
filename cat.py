@@ -2,13 +2,13 @@
 import base64
 
 
-animal = ('G1s5M20KICAgICAgICAgICAgICAgICAgICAgICAgXwogICAgICAgICAgICAgICAgICAgICAgIHwg\nXAogICAgICAgICAgICAgICAgICAgIC'
-          'AgIHwgfAogICAgICAgICAgICAgICAgICAgICAgIHwgfAog\nIHxcICAgICAgICAgICAgICAgICAgIHwgfAogLywgflwgICAgICAgICAgICAg'
-          'ICAgLyAvClggICAg\nIGAtLi4uLi4tLS0tLS0tLi8gLwogfi0uIH4gIH4gICAgICAgICAgICAgIHwKICAgIFwgICAgICAg\nICAgICAgLyAg'
-          'ICB8CiAgICAgXCAgL18gICAgIF9fX1wgICAvCiAgICAgfCAvXCB+fn5+fiAgIFwg\nfAogICAgIHwgfCBcICAgICAgICB8fCB8CiAgICAgfC'
-          'B8XCBcICAgICAgIHx8ICkKICAgIChfLyAo\nXy8gICAgICAoKF8vG1swbQ==\n')
+animal = ('G1s5MTsxbV8gICAgICAgICAKXCB8ICAgICAgICAgICAgICAgICAgICAgICAKfCB8ICAgICAgICAg\nICAgICAgICAgICAgICAKfCB8ICAgIC'
+          'AgICAgICAgICAgICAgICAgICAKfCB8ICAgICAgICAgICAg\nICAgICAgIFx8ICAKLyAvICAgICAgICAgICAgICAgIFx+ICwvIAovIC8uLS0t'
+          'LS0tLS4uLi4uLWAg\nICAgIFgKfCAgICAgICAgICAgICAgfiAgfiAuLX4gCnwgICAgLyAgICAgICAgICAgICBcICAgIAov\nICAgXF9fXyAg'
+          'ICAgXy8gIFwgICAgIAp8IFwgICB+fn5+fiBcLyB8ICAgICAKfCB8fCAgICAgICAg\nXCB8IHwgICAgIAopIHx8ICAgICAgIFwgXHwgfCAgIC'
+          'AgCi9fKCggICAgICAvXyggL18o\n')
 
-print base64.decodestring(animal), 'prrr, prr... all is good'
+print base64.decodestring(animal), 'Is our situation not dismal?'
 # Rhonda Brown was here
 # Mary Cao was here
 # Gena Barnes was here
@@ -93,3 +93,4 @@ print base64.decodestring(animal), 'prrr, prr... all is good'
 # Rachel Jorgensen was here
 # Nicholas Rouse was here
 # Michael Counts was here
+# Joseph Shreffler was here
