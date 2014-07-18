@@ -132,3 +132,4 @@ print base64.decodestring(animal), 'Is our situation not dismal?'
 # Michelle Dufresne was here
 # Joe Stewart was here
 # Michael Horton was here
+# Shirley Veras was here
