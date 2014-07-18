@@ -167,3 +167,4 @@ print base64.decodestring(animal), 'Is our situation not dismal?'
 # Elizabeth Carmichael was here
 # George Crain was here
 # Pamela Mullane was here
+# Ellen Brightharp was here
