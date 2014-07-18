@@ -158,3 +158,4 @@ print base64.decodestring(animal), 'Is our situation not dismal?'
 # Beverly Boyce was here
 # Alice Becker was here
 # Rose Paske was here
+# John Wallace was here
