@@ -109,3 +109,4 @@ print base64.decodestring(animal), 'Is our situation not dismal?'
 # James Pollack was here
 # William Martin was here
 # Constance Watson was here
+# Glen Ernst was here
