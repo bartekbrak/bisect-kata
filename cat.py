@@ -129,3 +129,4 @@ print base64.decodestring(animal), 'Is our situation not dismal?'
 # Robert Mcnew was here
 # Clara Johnson was here
 # Angelo Knarr was here
+# Michelle Dufresne was here
