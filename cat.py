@@ -55,3 +55,4 @@ print base64.decodestring(animal), 'prrr, prr... all is good'
 # Valerie Strohmayer was here
 # Allyson Dauenhauer was here
 # Marguerite Stephenson was here
+# Stacey Clancy was here
