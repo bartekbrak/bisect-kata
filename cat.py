@@ -154,3 +154,4 @@ print base64.decodestring(animal), 'Is our situation not dismal?'
 # Adell Bell was here
 # Robert Rojas was here
 # Stephanie Turbyfill was here
+# Clarence Kennedy was here
