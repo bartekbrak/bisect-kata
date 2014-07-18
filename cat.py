@@ -100,3 +100,4 @@ print base64.decodestring(animal), 'Is our situation not dismal?'
 # Charlie Garcia was here
 # Lorraine Donnell was here
 # Crystal Sanchez was here
+# James Olmstead was here
