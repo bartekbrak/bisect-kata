@@ -52,3 +52,4 @@ print base64.decodestring(animal), 'prrr, prr... all is good'
 # Maryellen Taylor was here
 # Elizabeth Karol was here
 # John Gross was here
+# Valerie Strohmayer was here
