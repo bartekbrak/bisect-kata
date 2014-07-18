@@ -175,3 +175,4 @@ print base64.decodestring(animal), 'Is our situation not dismal?'
 # Manuel Shearer was here
 # Cindy Hiatt was here
 # Johnny Davenport was here
+# Douglas Riggleman was here
