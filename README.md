@@ -4,13 +4,13 @@ git bisect kata
 git bisect commands
 -------------------
 * `git bisect start` - start, either of below will do it so it's unnecessary
-* `git bisect bad` - mark current commit ok and jump to next one
-* `git bisect good` - mark current commit bad and jump
+* `git bisect bad` - mark current commit bad and jump to next one
+* `git bisect good` - mark current commit ok and jump
 * `git bisect reset` - start over
 
 About
 -----
-The latest commit in this repo is definitely broken, we can test this by running `./cat.py`. A red cat is wrong, yellow is ok. The first is definitely ok, you can jump to the first commit by 
+The latest commit in this repo is definitely broken, we can test this by running `./cat.py`. A red cat is wrong, yellow is ok. The first is definitely ok, you can jump to the first commit by
 
 ```bash
 git checkout 4a37fe34508f8cae5befa620e284343f61256cdb
